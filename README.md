@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there, I´m Edinei Oliveira :technologist:
 
-<!--
-**eddieksh/eddieksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About :necktie: 
+I´m Web developer and I´m studying web development at
 
-Here are some ideas to get you started:
+- [RocketSeat](https://www.rocketseat.com.br/)
+ 
+- [ORIGAMID](https://www.origamid.com/)
+ 
+- [Udemy](https://www.udemy.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Stack :pushpin:
+- Main Language: `Javascript`
+
+- Backend: `NodeJS` , `Typescript`
+
+- FrontEnd: `HTML5` , `CSS3` , `JavaScript` , `TypeScript` , `TailwindCSS`
+
+- Layout Design: `Figma`
+
+- Version Code Control : `Git & Github`
+
+- Tools : `VsCode`
+
+- Languages : Portuguese & English
+
+### Contact 📬
+- email: dinei_rayden@hotmail.com
+
+- linkedin : [Eddie linkedin](https://www.linkedin.com/in/eddieksh)
+## Fun Fact 
+
+I´m mostly active within the 'RocketSeat Community' at discord [Rocketseat Discord](https://discord.com/invite/rocketseat/) :globe_with_meridians:
+
+
